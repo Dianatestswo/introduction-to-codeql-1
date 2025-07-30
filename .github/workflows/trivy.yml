@@ -15,7 +15,7 @@ on:
     - cron: '41 9 * * 0'
 
 env:
-  IMAGE_NAME: c4m1/introductioncodeql
+  IMAGE_NAME: Dianatestswo/introduction-to-codeql-1
 
 permissions:
   contents: read
